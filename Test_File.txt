@@ -1,0 +1,5 @@
+host: https://sharuzuci.testrail.io
+project: Test_Automation
+username: sharu2025d@gmail.com
+password: Sharusara@20
+title: Cypress Automated Test Run
